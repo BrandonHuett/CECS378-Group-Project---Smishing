@@ -1,202 +1,172 @@
 index,source_text,smishing_text,label
-0,"Your bank statement is ready for viewing. Log in to your online banking to access it.","Urgent: Suspicious activity detected. Log in to secure your account immediately.",1
-1,"Your package is on its way! Track it using our official app.","Delivery issue: Your package is on hold. Click here to confirm your address.",1
+0,"Your can now access your Citibank statement. Log in online to access it.","Citibank Urgent: Suspicious activity detected. To secure your account log in now.",1
+1,"Your UPS package is en route! Use our offical app to track.","UPS Delivery issue: We're holding your package. Click this link to verify your address.",1
 2,"You are receiving this update on your recent purchase.","Thank you for your purchase! Verify your information to confirm.",1
-3,"Your account balance is available. Please log in to view.","Attention! Account balance alert: Immediate action required to access.",1
-4,"Update your app to the latest version in the App Store.","Your account requires immediate update. Click here to install.",1
+3,"Your account Capitol One balance is available. Please log in to view.","Attention! Capitol One alert: Immediate action required to access.",1
+4,"Update your Safari App to the latest version in the App Store.","Safari app action required! Click here to install.",1
 5,"Thank you for your monthly payment. No further action is required.","Payment declined! Please update your payment info to avoid penalties.",1
-6,"Reminder: Your subscription will renew automatically next month.","Renewal failure! Click here to reactivate your subscription now.",1
+6,"Reminder: Your Netflix subscription will renew automatically next month.","Netflix Renewal failure! Click here to reactivate your subscription now.",1
 7,"Your online purchase was successful. Thank you for shopping with us.","Transaction error: Payment failed. Verify details to complete the order.",1
-8,"Your car service is due soon. Please schedule an appointment.","Car warranty is about to expire! Renew now to avoid additional fees.",1
-9,"Your appointment is confirmed. See you on the scheduled date.","Confirm your details to finalize appointment or it will be canceled.",1
-10,"Your energy bill has been paid. Thank you!","Alert! Unpaid bill detected. Update payment info to prevent disruption.",1
-11,"We’re sending you a reminder about your gym membership renewal.","Urgent: Your gym membership will expire. Confirm now to continue.",1
-12,"Please confirm your flight booking to receive itinerary updates.","Flight issue: Verify details immediately to confirm your booking.",1
-13,"Your credit card payment was successfully processed.","Action required! Credit card payment failure. Update information now.",1
-14,"Thank you for updating your email preferences.","Account at risk! Verify your email to secure your account now.",1
-15,"Your insurance premium has been processed for this month.","Payment failure! Update your insurance payment details to avoid lapsing.",1
-16,"Your phone plan is now active. Enjoy your services!","Phone plan suspended! Immediate verification required to resume service.",1
-17,"This is your reminder to renew your library membership.","Library membership on hold. Click to reactivate your account.",1
-18,"Your credit report is now available on our secure website.","Congrats! New credit report available. Access now for free.",1
-19,"Your social media account settings have been successfully updated.","Account compromised! Verify settings to secure your social media account.",1
-20,"Thank you for subscribing to our newsletter.","Verification required: Confirm email to continue receiving updates.",1
-21,"Your device location settings have been updated.","Suspicious location detected! Verify your device to ensure security.",1
-22,"This is a receipt for your recent order.","Order processing error. Confirm details to complete your purchase.",1
-23,"Your scheduled maintenance has been confirmed.","Urgent: Maintenance service needs confirmation. Verify now to keep appointment.",1
+8,"Your Honda car service is due soon. Please schedule an appointment at your earliest convenience.","Honda warranty is about to expire! Renew now to avoid fees.",1
+9,"Your CHOC appointment is confirmed. We look forward to seeing you on the scheduled date.","Confirm your details to finalize appointment or risk cancellation.",1
+10,"Thank you for paying your energy bill!","Alert! We're notifying you of an unpaid bill from Edison. Update payment info to avoid losing power.",1
+11,"We’re sending you a reminder about your Chuze Fitness membership renewal.","Urgent: Your Chuze membership will expire. Confirm now to continue.",1
+12,"Please confirm your flight booking to get updates.","Flight issue: Confirm booking to verify details.",1
+13,"Your Chase credit card payment has been processed.","Action required from Chase! Credit card payment has failed, update now!",1
+14,"Thank you for updating your Gmail account preferences.","Data is at risk! Verify your Gmail to secure the account now.",1
+15,"Your State Farm insurance premium has been processed for the month of Novemeber.","State Farm payment failed! Update your insurance payment details to avoid additional fees.",1
+16,"Your Spectrum phone plan is now active. Enjoy!","Warning! Spectrum Phone plan is suspended! Immediate verification is required to resume.",1
+17,"Keep your devices safe by upgrading your antivirus at your earliest convenience","A virus has been detected on your device! Click here to start cleaning.", 1
+18,"Your credit report is now available. Check our official site for details.","Congrats! Your November credit report is available. Access now for free.",1
+19,"Your Instagram settings have been successfully updated.","Instagram Account compromised! Verify settings to secure your social media account.",1
+20,"Thank you for subscribing to Times Magazine.","Verification required: Confirm your email to continue.",1
+21,"Your Android device location settings have been updated.","Unusual Location Detected! Verify location now to ensure security.",1
+22,"This is a receipt for your recent order.","Order processing error. Confirm details by clicking the link to complete your purchase.",1
+23,"Your scheduled maintenance with Toyota has been confirmed.","Urgent: Maintenance service needs confirmation. Verify now to keep appointment.",1
 24,"Thank you for your booking with us. We look forward to your stay.","Booking issue detected! Confirm details to avoid reservation cancellation.",1
-25,"You have been enrolled in our rewards program.","Rewards account compromised! Verify to secure your points.",1
-26,"Your annual subscription will renew automatically.","Subscription suspended. Click to renew and continue benefits.",1
-27,"Important update: We’re improving our service for you.","Immediate update required to keep your account active.",1
-28,"Your tax form is ready for download in your secure account.","Urgent: IRS tax issue. Verify your information to avoid penalties.",1
-29,"New updates are available for your mobile app.","Security update required! Click here to update your app.",1
-30,"You have a new message in your inbox.","New urgent message! Click here to read now.",1
-31,"Your recent payment has been processed successfully.","Payment declined! Click here to retry and avoid service interruption.",1
+25,"You have been enrolled in our new member rewards program.","Rewards account has been breached! Verify now to conserve your points.",1
+26,"Your NordVPN annual subscription will renew automatically.","NordVPN Subscription suspended. Click to renew and continue annual benefits.",1
+27,"Important update: Improvements have been made to our service.","To keep your account active immediate aciton is required!.",1
+28,"Your Turbotax form is ready for download in your secure account.","Urgent: IRS tax issue. Verify your information to avoid penalties.",1
+29,"Our Chik Fil A mobile app has been updated!","Update required! Click here to update the Chik Fil A app.",1
+30,"You have a new message in your inbox.","Important message! Check now.",1
+31,"Your recent payment has been successfully processed.","Payment was declined! Click here to avoid fees and reattempt.",1
 32,"Confirm your email preferences to receive updates.","Your account is at risk. Confirm email to secure.",1
-33,"Congratulations! Your order has been confirmed.","Order processing error. Verify details immediately.",1
-34,"You have a secure message from your bank.","Account at risk! Click here to read secure message.",1
-35,"Account settings updated. No further action needed.","Alert! Unauthorized account change detected. Verify immediately.",1
-36,"Your recent login attempt was successful.","Suspicious login detected. Verify now to secure your account.",1
-37,"Important update on your policy renewal.","Policy renewal failed. Click to update your information now.",1
-38,"Your password was changed successfully.","Alert! Password change attempt detected. Confirm if this was you.",1
-39,"Thank you for enrolling in our monthly plan.","Subscription error. Confirm enrollment to avoid service loss.",1
-40,"Your secure document is available for download.","Secure document pending. Verify identity to access.",1
-41,"This is a reminder for your upcoming medical appointment.","Medical appointment needs confirmation. Click here to verify.",1
-42,"Your flight has been booked. Thank you for choosing us.","Booking failed. Confirm details to secure your reservation.",1
-43,"Your prescription is ready for pickup.","Urgent: Prescription confirmation needed. Verify now to receive.",1
-44,"This is a notification regarding your recent credit inquiry.","Credit alert! New inquiry detected. Verify for security.",1
-45,"Thank you for registering for the event. We’ll see you there!","Registration incomplete! Confirm to reserve your spot.",1
+33,"Order has been confirmed.","Error in order processing. Verify details now.",1
+34,"You have a inbox notification from Bank of America.","BofA account is at risk! Click here check inbox.",1
+35,"Account settings have been updated. No further action is required.","Emergency! Unverified account change detected. Check here.",1
+36,"Your recent login attempt was successful.","Suspicious login detected. Click the bit.ly link to verify",1
+37,"It's been 6 months since your last password change, an update it recommended.","Password change required after 6 months. Mandatory update required. Click here for more information.",1
+38,"Your password has been changed successfully.","Urgent Message! An attempt to change your password was detected. Confirm if this was you.",1
+39,"Thank you for enrolling in our Grammarly monthly plan.","Monthly Grammarly subscription error. Confirm enrollment to avoid losing service.",1
+40,"Your secure invoice is available for download.","Secure invoice is pending. Verify your identity to access.",1
+41,"This is a reminder for your upcoming medical appointment at Kaiser.","Click here to confirm your medical appointment at Kaiser Permanente.",1
+42,"Your flight with United Airlines has been booked. Thank you for choosing us.","United booking failed. Confirm details to secure your seats.",1
+43,"Your Rx prescription is ready for pickup.","Urgent: CVS prescription confirmation needed. Verify now for pickup.",1
+44,"You've won a prize","Apple has sent you a prize! Click to view now",1
+45,"Thank you for registering for the OC marathon event. We’ll see you there!","Registration error! Re-complete the form to reserve your spot.",1
 46,"Your Amazon account has been updated successfully.","Alert: Amazon account issue detected. Confirm to prevent lockout.",1
-47,"Your PayPal account activity report is available.","Security alert! Unusual PayPal activity detected. Verify now.",1
-48,"Your voicemail has been saved. Check your inbox.","New voicemail: Click here to listen immediately.",1
-49,"Thank you for your online application submission.","Application issue: Verify details to complete submission.",1
+47,"Your PayPal account activity report is available.","Security alert! Unusual PayPal activity detected. Click here to verify now.",1
+48,"We have updated our Amazon terms of service. Please review them at your earliest convenience.","Amazon has updated terms of service. View now.",0
+49,"Reminder of your upcoming appointment at 5:00PM","Kaiser Permanente: Rocky has a 5:00PM appointment, for more info click here.",1
 50,"Your phone bill is due on the 15th of the month.","Urgent: Phone bill overdue. Pay now to avoid disconnection.",1
-51,"You have a gift waiting from your recent purchase.","Claim your prize now! Click here to redeem your gift.",1
-52,"This is a reminder of your upcoming dentist appointment.","Dentist appointment requires confirmation. Verify details to finalize.",1
+51,"Red Cross has recieved your donation. Thank you for your generosity.","Your contribution helps us make a difference. Click here to view.",0
+52,"This is a reminder of your upcoming dentist at Kid's Dental appointment.","You upcoming dentist appointment at Kid's Dental requires confirmation. View now.",1
 53,"We’re glad to have you as a new subscriber. Thank you!","Action needed: Verify your subscription to keep your benefits.",1
 54,"Your grocery delivery is scheduled for this afternoon.","Delivery error! Verify details to receive your items.",1
-55,"Your request for support has been received.","Support ticket issue. Confirm details to receive assistance.",1
-56,"New login to your bank account detected from a recognized device.","Alert: Unusual login from unknown device. Confirm activity.",1
+55,"Your support ticket has been recieved by customer support.","Support ticket pending. Verify identity to process.",1
+56,"A new login to your Chase account detected.","Alert: Unusual login from an unknown device. Confirm activity.",1
 57,"Thank you for participating in our survey.","Survey rewards available! Click here to redeem your prize.",1
-58,"You’ve successfully updated your emergency contact.","Suspicious change detected! Verify emergency contact details.",1
-59,"Enjoy your newly activated phone plan.","Phone plan activation failed. Verify now to resume service.",1
-60,"Order confirmed! Thank you for choosing our service.","Order failed. Confirm payment details to complete transaction.",1
-61,"Your monthly bill is ready. Please log in to view and pay.","Immediate payment required! Click here to settle your bill and avoid late fees.",1
-62,"This is a confirmation of your recent password change.","Alert! Password change detected. Click here if this wasn’t you.",1
-63,"Your transaction was successful. Thank you for your payment.","Payment failed! Verify your information to avoid account suspension.",1
+58,"You’ve successfully updated your emergency contact at St. Jospeh Hospial.","Suspicious change detected! Verify your emergency contact details.",1
+59,"Enjoy your premium T-Mobile phone plan.","T-Mobile phone plan activation failed. Verify now to resume service.",1
+60,"Popcorn order confirmed! Thank you for choosing our service.","Popcorn order failed. Confirm credit card payment details to finish transaction.",1
+61,"Your monthly water bill is ready. Please log in to view and pay.","Mandatory payment required! Click here today to pay and avoid late fees.",1
+62,"Darc Sport: This is a confirmation of your recent password change.","Review Now! Password change detected. Click if this wasn’t you.",1
+63,"Your transaction was successful. Thank you for your payment.","Credit card payment failed! Verify your information to avoid account suspension.",1
 64,"Your subscription has been renewed. No further action is needed.","Subscription issue: Click here to confirm payment and avoid cancellation.",1
-65,"Thank you for your purchase. Expect delivery within 5-7 business days.","Delivery issue detected! Click here to confirm address details.",1
-66,"We’re updating our privacy policy to better serve you.","Important account notice: Privacy update requires your verification.",1
-67,"Your refund request has been approved. Funds will appear within 5-10 business days.","Refund failed. Confirm details here to receive your funds.",1
+65,"Thank you for your purchase. Delivery will be in 5-7 days.","Address confirmation failed! Click to confirm address and avoid delays.",1
+66,"We’re updating our Riot Games privacy policy to better serve you.","Riot Games: An update to our privacy policy requires new verification.",1
+67,"Your refund request has been approved. Funds will appear in you account within 1-2 weeks.","Refund processing failed. New information is requested. Click to confirm.",1
 68,"Your email preferences have been updated successfully.","Verify your email settings to avoid account restrictions.",1
-69,"You’ve received a new message from your doctor’s office.","New health message waiting! Click here to access.",1
-70,"Your credit card points are about to expire. Log in to redeem.","Last chance to redeem your points! Click here to secure them now.",1
-71,"Your electricity bill will be due on the 15th. Log in to pay.","Unpaid bill alert! Verify your payment information to avoid disconnection.",1
-72,"We’ve shipped your order. Track it using our app.","Package delay! Confirm your address to receive your order.",1
-73,"Please log in to view your latest bank statement.","Bank alert! Suspicious activity detected. Log in to secure your account.",1
-74,"Your tax filing status has been updated in your account.","Immediate tax issue! Verify details here to avoid penalties.",1
-75,"We’re excited to have you in our rewards program. Thank you!","Rewards account update needed. Confirm now to maintain benefits.",1
-76,"You have a voicemail waiting. Check your inbox to listen.","Voicemail alert! Click here to listen now.",1
-77,"Your preferred payment method has been updated.","Payment method change detected. Verify if this wasn’t you.",1
-78,"We’re sending you this update regarding your recent booking.","Booking failed. Confirm your payment to keep your reservation.",1
-79,"Your delivery is on the way! Use our app to track it.","Urgent: Delivery delayed. Verify address to avoid return.",1
-80,"Your credit card payment is due on the 1st of the month.","Attention: Payment overdue! Update details to avoid fees.",1
-81,"We’re processing your recent return request. You’ll be notified when complete.","Return error! Confirm details here to complete your request.",1
+69,"You’ve received a new message from Carbon Health.","New health message waiting! Click here to view.",1
+70,"Your license will be expiring soon, please visit the DMV or view on our official site to renew.","Licnese renewal required. Request here for renewal now!",1
+71,"Your electricity bill will be due in 15 days. Log in to pay.","Edison: Unpaid electricity bill notice. Please click the link to renew now.",1
+72,"We’ve shipped your order. Track it using the official COS app.","COS Package delay! Confirm your current address to receive your order.",1
+73,"Please log in to view your latest bank statement.","Bank statement has been paid. Click to view new statement",1
+74,"Your tax filing status has been updated.","Tax submission issues! Check again to verify documents.",1
+75,"Thank you for joining our Ulta rewards program!","Error with Ulta reward points. Click here to claim again.",1
+76,"Someone was detected with COIVD-19 in your area, remember to stay safe","COVID-19 has been detected in your area. Click for more info",1
+77,"Your preferred contactless payment method has been updated.","Payment has been changed. Click here to verify if it wasn't you.",1
+78,"There is an update to your American Airlines booking. Check our official app to view","American airlines booking has failed. Click to reserve your seats",1
+79,"Your Uber Eats delivery is on the way! Use our app to track it.","Uber Eats delivery has been delayed. Verify address to avoid delays.",1
+80,"Your credit card statement is due on the 6th of the month.","Avoid late fees on your credit card statement by paying now! Pay here",1
+81,"Your Dr. Martens return request is now being processed.","Your recent return request is being processed! View this link to recieve now!",1
 82,"Your account information was updated as requested.","Unauthorized change detected! Confirm details to secure your account.",1
-83,"Your account preferences have been successfully saved.","Security alert! Unrecognized change to account preferences.",1
-84,"Your library membership renewal was successful.","Library membership expired! Renew now to avoid late fees.",1
-85,"Please confirm your attendance for the upcoming event.","Event registration pending! Confirm now to keep your spot.",1
-86,"We’ve received your feedback. Thank you for sharing!","Special offer! Claim your reward for giving feedback.",1
-87,"Your monthly subscription has been processed.","Subscription error detected! Confirm payment to avoid disruption.",1
-88,"You have a secure message from your healthcare provider.","Urgent health message! Click here to view now.",1
-89,"Thank you for activating two-factor authentication on your account.","Action required: Verify account to activate secure login.",1
-90,"Your package is scheduled for delivery tomorrow.","Final notice: Confirm address to receive your package.",1
-91,"Thank you for updating your contact information.","Suspicious change detected! Verify if this update was unauthorized.",1
-92,"We’re glad to have you as a member. Enjoy your benefits!","Membership at risk! Confirm information to avoid deactivation.",1
-93,"We’re processing your recent order. Expect an email confirmation soon.","Order confirmation failed! Click here to verify details.",1
-94,"Your job application has been received. We’ll be in touch soon.","Immediate action required! Verify your application to proceed.",1
-95,"Your account has been reactivated successfully.","Account suspended! Verify details to reactivate now.",1
-96,"New transaction detected on your credit card ending in 1234.","Unauthorized charge detected! Verify details if this wasn’t you.",1
-97,"Please log in to view the results of your recent medical test.","Urgent: New test results available. Click here to access.",1
-98,"Your hotel booking is confirmed. We look forward to your stay.","Booking confirmation failed! Verify details to secure your room.",1
+83,"Your account username has been changed successfully.","Warning you account username has been changed! View the information now to protect your information",1
+84,"Your Stanton Library membership renewal was successful.","Library membership expired! Renew now start checkout out books.",1
+85,"Please confirm your attendance for the CSULB cybersecurity workshop.","Workshop registration pending! Confirm now to keep your spot.",1
+86,"We’ve received your feedback at Outback Steakhouse. Thank you for sharing!","Limited Time Offer! Claim your free reward for filling out our survey.",1
+87,"Your Disney+ monthly subscription has been renewed.","There was an error renewing your subscription. Confirm payment method to continue services.",1
+88,"You have an importany message from St. Joseph Hospital. Contact your doctor for more information","Urgent St. Joseph Hospital notification: Click here to view now.",1
+89,"This is a confirmation for activating two-factor authentication on your CSULB account.","Verify your two-factor authorization from CSULB. Check this link for more information.",1
+90,"Your package from FedEx will be arriving tomorrow.","FedEx: Your package will be arriving soon. Authorize your address to recieve your shipment.",1
+91,"Thank you for updating your Facebook password.","Suspicious change to account information detected! View changes here.",1
+92,"Thank you for joining us as a member! We hope you enjoy the various benefits","To avoid deactivation of your membership pay the fees here.",1
+93,"We’re processing your recent order. A confirmation email will be arriving shortly.","Your Costco order has failed. Please click here to verify missing details.",1
+94,"Your job application has been received. We'll contact you soon with additional details.","Immediate action required! Your application requires addition verification. Click here.",1
+95,"Your account has been reactivated. You are now able to freely use your account.","Your account has been disabled. Verify details if this wasn't you.",1
+96,"A transaction exceeding your limit was detected on your credit card ending in 4137.","Large charge was detected! Click here if this wasn't you.",1
+97,"Please log in to view the results of your recent medical test.","Urgent: Quest test results are now avaiable. Click here to view.",1
+98,"Your hotel booking is confirmed. We look forward to your stay.","Hilton booking confirmation failed! Verify to finish reserving your room.",1
 99,"Thank you for your recent purchase. We hope you enjoy it.","Transaction error detected! Click to verify your purchase details.",1
-100,"Your refund has been processed successfully.","Refund error! Confirm your account details to complete transaction.",1
-101,"Your cable bill is ready for payment. Due date: 25th of the month.","Payment overdue! Click here to update billing info.",1
-102,"Thank you for renewing your membership.","Membership renewal failed! Confirm now to avoid account suspension.",1
-103,"You’ve successfully updated your security questions.","Unauthorized update detected! Verify details if this wasn’t you.",1
-104,"Your preferred address has been updated in your profile.","Alert: Address update detected! Confirm if this was not you.",1
-105,"Your delivery is scheduled for 3-5 business days.","Urgent: Delivery on hold. Confirm address to complete shipment.",1
-106,"Thank you for joining our loyalty program. Enjoy exclusive perks!","Action required: Confirm your details to activate loyalty perks.",1
-107,"Your bank account preferences have been successfully updated.","Bank alert! Unrecognized change detected. Verify immediately.",1
-108,"Please review our new terms of service.","Terms of service update requires immediate verification.",1
-109,"Your payment method has been updated in our system.","Unrecognized payment update. Click to verify if unauthorized.",1
-110,"Thank you for signing up for our newsletter!","Verification required! Confirm your email to continue receiving updates.",1
-111,"Your account statement is now available.","Account alert! Suspicious activity detected. Verify immediately.",1
-112,"Your profile was successfully updated.","Alert: Profile change detected! Confirm if unauthorized.",1
-113,"Thank you for using our secure payment portal.","Payment error detected! Click here to retry.",1
-114,"We’ve received your service request. Our team will contact you shortly.","Service request failed! Confirm details to proceed.",1
-115,"Your profile has been successfully updated with new information.","Suspicious profile change! Verify immediately to secure account.",1
-116,"Your payment method update was successful.","Unauthorized payment update detected! Verify details.",1
-117,"Your recent transaction was processed without issues.","Payment issue detected! Click here to verify your transaction.",1
-118,"Thank you for providing feedback on our service.","Claim your feedback reward here!",1
-119,"Your medical test results are available in your account.","Urgent health message! View results here now.",1
-120,"We’ve confirmed your recent booking with us.","Booking error! Verify payment to confirm reservation.",1
-121,"Your last transaction was successful. Thank you for your business.","Payment failure! Retry transaction to avoid penalties.",1
-122,"Thank you for updating your emergency contacts.","Alert: Unauthorized contact update detected. Confirm details.",1
-123,"Your order will arrive in 3-5 business days. Track it via our app.","Delivery delay! Verify address to receive items.",1
-124,"Thank you for renewing your account with us.","Account suspended! Confirm payment to reactivate service.",1
-125,"Your order is complete. Thank you for shopping with us.","Order error! Confirm payment details to complete transaction.",1
-126,"We’re processing your account settings update.","Security alert! Verify account if you did not request an update.",1
-127,"Thank you for confirming your contact details.","Contact change detected! Verify if unauthorized.",1
-128,"Your new account settings have been successfully saved.","Alert: Unauthorized settings change detected. Verify now.",1
-129,"Your Netflix subscription has been successfully renewed.","Netflix account at risk! Click here to confirm details.",1
-130,"Your refund request is being processed. Funds will be transferred shortly.","Refund error! Confirm bank details to complete transaction.",1
-131,"Thank you for your recent purchase. Your order is being processed.", We appreciate for your recent purchase. Our system indicates your order has been confirmed and is under review, 0
-132,"Your appointment is scheduled for next week. Please arrive 10 minutes early.","Your upcoming appointment has been confirmed. Please arrive on time.",0
-133,"This is a reminder to complete your account verification for added security.","Your account verification is still pending. Please complete it for added security.",0
-134,"Your payment has been received. Thank you for staying current with your billing.","Your payment confirmation was successful. Thank you for staying current with your billing.",0
-135,"Congratulations on your membership renewal. We’re excited to have you with us!","Your membership renewal is confirmed. Welcome back!", 0
-136,"Your scheduled service appointment is confirmed. We look forward to seeing you.","Your scheduled service appointment is successfully set. We’ll see you soon.",0
-137,"Your flight itinerary has been sent to your email. Safe travels!","Your flight details have been sent. Wishing you safe travels!",0
-138,"Your health insurance policy has been successfully renewed.","Your health insurance renewal has been completed. All updates are applied.", 0
-139,"Your bank account balance has been updated. Log in to view details.","Your bank balance is updated. Log in for more details.",0
-140,"We’ve updated our terms of service. Please review them at your earliest convenience.","Your utility bill is ready for viewing. Log in to your account for details.",0
-141,"Your library book is due in two days. Please return it by the due date.","Please return your library book by the due date to avoid late fees.",0
-142,"Your utility bill is ready to view. Log in to your account for more details.","Your utility bill is now ready. Log in to view and make a payment.",0
-143,"Thank you for enrolling in paperless billing.","We’re glad you’ve chosen paperless billing. Thank you for your preference.",0
-144,"Your car service appointment has been scheduled. Please confirm your availability.","Your car service appointment is set. Please confirm or reschedule if needed.",0
-145,"Your upcoming event tickets are confirmed. Enjoy the event!","We hope you have a memorable time at the event.",0
-146,"Your prescription is ready for pickup at your chosen pharmacy.","Please collect it at your earliest convenience.",0
-147,"Your password change was successful. Please keep your new password secure.","Consider enabling two-factor authentication for added security.",0
-148,"Your rewards points balance has been updated. Check your account for more info.","Use your points to redeem exclusive rewards today.",0
-149,"Your reservation has been successfully modified. We look forward to hosting you.","Let us know if there are any special accommodations needed.",0
-150,"Your monthly statement is now available. Log in to view the details.","Review your transactions for accuracy.",0
-151,"Thank you for updating your email preferences. You’ll receive updates as requested.","You can modify your preferences at any time.",0
-152,"We’ve received your request for assistance. Our team will be in touch shortly.","Expect a response within the next 24 hours.",0
-153,"Your recent job application was received. You will be contacted if selected.","Check your email for updates on your application status.",0
-154,"Your warranty coverage has been extended for another year.","Enjoy peace of mind knowing you’re covered.",0
-155,"Your payment method has been updated as requested.","Ensure all billing details are accurate for uninterrupted service.",0
-156,"We’re excited to offer you exclusive access to our loyalty program.","Explore the rewards and benefits available to you.",0
-157,"Your rental car reservation is confirmed. We look forward to serving you.","Contact us if you need to make any changes to your reservation.",0
-158,"Your recent contribution has been received. Thank you for your support.","Your generosity helps us achieve our goals.",0
-159,"Your requested document is now available for download.","Log in to access the document securely.",0
-160,"Your monthly membership benefits have been applied to your account.","Enjoy all the perks and privileges of your membership.",0
-161,"Thank you for subscribing to our service. We’re glad to have you!","Explore all the features available to you today.",0
-162,"We’ve received your address update. Please allow a few days for processing.","Verify your updated address to avoid any delays.",0
-163,"Your automatic payment has been set up successfully.","Your payments will be processed on time moving forward.",0
-164,"Your course enrollment is complete. Check your email for more information.","Access course materials and schedules online.",0
-165,"Thank you for joining our loyalty program. Enjoy your perks!","Check your account for your current rewards balance.",0
-166,"Your insurance claim has been received and is under review.","You’ll receive updates as the review progresses.",0
-167,"Your bank account has been linked successfully to your profile.","Enjoy seamless transactions and account management.",0
-168,"Your account settings were updated as requested.","Review your settings to ensure everything is correct.",0
-169,"We’re notifying you of an upcoming maintenance window. No action required.","Service may be temporarily unavailable during this period.",0
-170,"Your medical appointment has been scheduled. Please arrive on time.","Bring any necessary documents to the appointment.",0
-171,"Your check-in time is confirmed. We look forward to seeing you.","Contact us for any last-minute adjustments.",0
-172,"Your recent bill payment was successful. Thank you for your timely payment.","Review your payment history in your account.",0
-173,"Your recent feedback submission has been recorded. Thank you!","Your input helps us improve our services.",0
-174,"Your online order was shipped. Check your email for tracking information.","Monitor your delivery status in real time.",0
-175,"Your scheduled delivery is on its way. Track your shipment in the app.","Contact support if you have delivery concerns.",0
-176,"Thank you for choosing our services. We hope to exceed your expectations.","Reach out to us for any assistance you need.",0
-177,"Your recent profile update has been successfully saved.","Ensure all your details are accurate for a seamless experience.",0
-178,"We appreciate your continued support as a valued customer.","Let us know how we can further assist you.",0
-179,"Your rewards points have been applied to your recent purchase.","Enjoy discounts and offers with your redeemed points.",0
-180,"Your healthcare provider has sent you a secure message.","Log in to your account to read it at your convenience.",0
-181,"Your recent bank transaction has been processed successfully.","Check your account for updated balances.",0
-182,"Your gym membership is active. Enjoy your workouts!","Explore exclusive member benefits in our app.",0
-183,"Your utility service will remain active without interruption.","Ensure timely payments to maintain uninterrupted service.",0
-184,"Your recent bill was paid automatically. No further action needed.","View the payment confirmation in your account.",0
-185,"Your benefits summary is available in your account.","Review the details to make the most of your benefits.",0
-186,"Thank you for setting up your account with us.","Start exploring all the features available to you today.",0
-187,"Your travel itinerary has been updated. Check your email for details.","Ensure all travel information is correct before departure.",0
-188,"Your emergency contact information has been saved.","Make sure your contacts are current and accurate.",0
-189,"We’ve confirmed your participation in the upcoming event.","We’re excited to see you there!",0
-190,"Your digital library card is now available for use.","Access our collection of resources online.",0
-191,"Your profile update request has been processed.","Your changes have been successfully applied.",0
-192,"Your donation has been received. Thank you for your generosity.","Your contribution helps us make a difference.",0
-193,"Your account is in good standing. No issues detected.","Enjoy uninterrupted access to all services.",0
-194,"Your recent deposit has been credited to your account.","Check your updated balance for verification.",0
-195,"Your personal information has been updated successfully.","Ensure all details are correct in your profile.",0
-196,"Your subscription benefits have been renewed.","Enjoy uninterrupted access to your services.",0
-197,"Your mortgage payment was received. Thank you for staying current.","Your updated balance is now reflected in your account.",0
-198,"Your flight check-in is available online. Have a great trip!","Ensure your travel documents are ready before departure.",0
-199,"Your customer service request has been logged. We’ll reach out soon.","Expect an update within the next 24 hours.",0
-200,"Your subscription was canceled as requested. Thank you for your time with us.","We hope to serve you again in the future.",0
+100,"Your delivery is scheduled for 3-5 business days.","Urgent: Delivery on hold. Confirm address to complete shipment.",1
+101,"Thank you for joining our loyalty program. Enjoy exclusive perks!","Action required: Confirm your details to activate loyalty perks.",1
+102,"Your Wells Fargo account preferences have been successfully updated.","Wells Fargo alert! Unrecognized change detected. Verify immediately.",1
+103,"Your Facebook profile was successfully updated.","Alert: Facebook Profile change detected! Confirm if unauthorized.",1
+104,"Your Quest medical test results are available in your account.","Urgent Quest message! View results here now.",1
+105,"Your Netflix subscription has been successfully renewed.","Netflix account information is at risk! Click here to confirm details.",1
+106,"Thank you for your recent purchase. Your order is being processed.", Thank you for your recent purchase. Your purchase has been confirmed and is under review., 0
+107,"This is a reminder of your appointment next week. Please arrive 10 minutes early.","Please arrive 10 minutes early for your appointment next week.",0
+108,"Please remember to verify your account soon for enhanced security.","This is a reminder that we still require your account verification. Please complete as soon as you can to increase security",0
+109,"You payment was successful. Thank you for choosing us.","Your payment confirmation was successfully processed. Thank you for choosing to stay with us.",0
+110,"Congratulations! Your membership has been renewed.","Thank you for renewing your membership! We hope to see you again soon.", 0
+111,"Your service appointment has been confirmed. Please remember to wear a mask and arrive on time.","We have successfully reserve your time for a service appointment. Remember to arrive on time and wear a mask.",0
+112,"Your flight information has been sent to your email!","Information regarding your flight has been sent to your email!",0
+113,"Your health insurance documents have been processed. Please let us know if you have any questions.","All documents have been processed regarding your health insurance. If you have any questions let us know!", 0
+114,"Your Chase account balance has been updated. Log in to view details.","Your Chase debit balance is updated. Log in for more details.",0
+115,"We’ve updated our terms of service. Please review them when you get the chance.","Our terms of service has been updated. View on the official website at your earliest convenience.",0
+116,"This is a reminder your library book will be due in 3 days. Remember to return to the library or by mail.","Please return your library book within 3 days. You can return in person at the library or by mail.",0
+117,"Your gas bill is now ready to view. Log into our official website to make your payment.","Your gas bill is ready. Log in to the official website to view or make any changes.",0
+118,"Thank you for switching to our paperless billing service.","You have been switched to our paperless billing service.",0
+119,"Your car service appointment has been scheduled. Additional details will be sent to your email.","Your vehicle service appointment has been set. Additional details will be sent by mail.",0
+120,"Your upcoming concert tickets are confirmed. We hope your enjoy your time!","Your tickets have been confirmed! We hope you have a wonderful time.",0
+121,"Your glasses prescription is ready!","Your glasses prescription is ready! Pick it up at your nearest myOptics optometry at your earliest convenience.",0
+122,"Your password was changed successfully. Remember to change it every 6 months.","You password has been changed. Update it every 6 months to upkeep security.",0
+123,"Your recent purchase has updated your rewards points.","Remember to use your reward poitns to get exclusive benefits.",0
+124,"We've update your reservation date. Let usk now if any changes need to be made.","Your reservation date has been updated. Let us know of any updates or changes.",0
+125,"Your monthly statement is available. Check our official app for more details.","View your recent transactions if you monthly statement. Check your email for more information.",0
+126,"You have successfully unsubscribed for your email notificaitons.","You will no longer recieve email notifications because you have unsubscribed.",0
+127,"Your customer support ticket was successfully processed. Our response team will get back to you within 1-2 days.","Thank you for sending us a ticket regarding your recent issue. Our team will get back to you in 2-5 days.",0
+128,"Your warranty will be expiring soon. To extend it please contact our official team","Please contact our official team if you have any questions regarding your warranty expiration date.",0
+129,"Your payment method has been updated to a new card.","A new card was added to your payment method.",0
+130,"As a member of our loyalty program you were granted early access to our new collection.","Your membership in our loyalty program has granted you early access to our new collection.",0
+131,"Thank you for choosing our rental car service.","If you need to make any changes to your rental please contact us.",0
+132,"Your recent donation to No Kids Hungry has been processed.","Your donation to charity has been successfully processed. Thank you for your generosity.",0
+133,"Your membership benefity have been upgraded to the next tier.","You've been upgraded to the next membership tier. Enjoy your exclusive benefits.",0
+134,"Thank you for choosing our streaming platform! We hope you enjoy all the different movies and shows.","You have subscribed to our streaming platform. Please enjoy our large variety of content.",0
+135,"Automatic payment was successfully implemented.","All payments will be processed on the due date from this point forward.",0
+136,"Your CSULB enrollment is complete. Check the student center in MyApps for more information.","Your enrollment is confirmed. Check our official site for additional information.",0
+137,"You have been added to our exclusive loyalty program!","Thank you for joining our loyalty program!",0
+138,"Your insurance claim regarding a recent accident is currently being processed.","Your insurance claim is being reviewed and updates will be sent via email.",0
+139,"Thank you linking Facebook account to our app.","Your Facebook account has been successfully linked to your account.",0
+140,"Your Spotify account preferences have been changed.","Your account setting were changed. Check the official app to review.",0
+141,"We’re notifying you of an upcoming maintenance window. No action required.","Service may be temporarily unavailable during this period.",0
+142,"Your counseling appointment has been confirmed for tomorrow.","Your appointment for tomorrow has been confirmed. Please contact us to make any changes.",0
+143,"Your meal has been reserved for 2:00 PM please arriive on time.","You reservation has been booked.",0
+144,"Your bank statement was paid in full. Thank you for paying on time.","Your payment has been successfully processed thank you staying on time.",0
+145,"Thank you for filling out our survey! Your participation is appreciated.","Your participation in our survey is greatly appreciated!.",0
+146,"Your Amazon order has been processed and will arrive later today.","Your order has been processed and will arrive soon.",0
+147,"You delivery will arrive within 5 business days.","Your delivery will arrive soon. If you have any questions please contact support.",0
+148,"Thank you for updating your profile. These changes will be reflected shortly","Your profile has been updating and will be updated soon.",0
+149,"Your notification preferences have been saved.","Your notifications have been updated to your preference.",0
+150,"Thank you for shopping with us again we hope to see you again soon.","Thank you for shopping with us.",0
+151,"You have applied reward points to your most recent purchase.","Your latest purchase has used reward points.",0
+152,"You have pending notifications. Please check our official app to view.","View your notifications in our official app to stay udpated.",0
+153,"Your recent Bank of America transaction has been processed.","For your latest transactions please check our official app or give us a call.",0
+154,"Your Costco membership is now fully usable!","Your membership has been processed and is ready to use.",0
+155,"This is a reminder that your credit card statement is due soon.","Please make sure you pay your credit card statement on time.",0
+156,"Your automatic payment has been processed.","Thank you for your automatic payment. Please check in the app to view additional details.",0
+157,"Your electricity bill is overdue, please review online to check.","We're notifying you about an overdue bill, please check our official site or app for additional details.",0
+158,"You've been rewarded a coupon code. Please check your email from us for more details.","You've been awarded a coupon code! Please check our official site for more details.",
+159,"Your travel itinerary has been updated. Check your email for details.","Ensure all travel information is correct before departure.",0
+160,"Remember, we will never ask you for any personal information.","Stay safe by not giving away any personal information. We will never ask you anything about that.",0
+161,"We've just released a new update for our app please go to the app store to update it.","Please visit the app store to make sure our app is up to date!",0
+162,"Your vehicle registration is due for renewal. Review it on our official site","Your vehicle is due for renewal. Check the official site or give us a call to renew.",0
+163,"Your prescription is ready. Visit and show them the QR code for pickup.","Your prescription is ready for pickup. Visit any of our locations to pick up.",0
+164,"Your child's report card is now available on the official portal.","Your report card is avaiable on the portal. Please check online.",0
+165,"Your request for a tax refund has been processed and will be available in your account within 5 business days.","Your tax refund has been processed and will be available soon.",0
+166,"Your cash deposit has been processed and will be reflected in your account shortly.","Your cash deposit will be avaialable to cover purchases soon.",0
+167,"You have unread notifitions in your CSULB Student Center.","Please login to your CSULB student center to view unread notifications.",0
+168,"Your subscription has been automatically renewed.","We have automatically renewed your subscription. Check the app for more information.",0
+169,"Your payment was recieved. Thank you for being on time","Your payment has been recieved, thank you for choosing us.",0
+170,"Your hotel room is ready! Please check in at your earliest convenience.","Your check in is ready. Please stop by as soon as you can.",0
