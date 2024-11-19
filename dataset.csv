@@ -130,73 +130,73 @@ index,source_text,smishing_text,label
 128,"Your new account settings have been successfully saved.","Alert: Unauthorized settings change detected. Verify now.",1
 129,"Your Netflix subscription has been successfully renewed.","Netflix account at risk! Click here to confirm details.",1
 130,"Your refund request is being processed. Funds will be transferred shortly.","Refund error! Confirm bank details to complete transaction.",1
-131,"Thank you for your recent purchase. Your order is being processed.",0
-132,"Your appointment is scheduled for next week. Please arrive 10 minutes early.",0
-133,"This is a reminder to complete your account verification for added security.",0
-134,"Your payment has been received. Thank you for staying current with your billing.",0
-135,"Congratulations on your membership renewal. We’re excited to have you with us!",0
-136,"Your scheduled service appointment is confirmed. We look forward to seeing you.",0
-137,"Your flight itinerary has been sent to your email. Safe travels!",0
-138,"Your health insurance policy has been successfully renewed.",0
-139,"Your bank account balance has been updated. Log in to view details.",0
-140,"We’ve updated our terms of service. Please review them at your earliest convenience.",0
-141,"Your library book is due in two days. Please return it by the due date.",0
-142,"Your utility bill is ready to view. Log in to your account for more details.",0
-143,"Thank you for enrolling in paperless billing.",0
-144,"Your car service appointment has been scheduled. Please confirm your availability.",0
-145,"Your upcoming event tickets are confirmed. Enjoy the event!",0
-146,"Your prescription is ready for pickup at your chosen pharmacy.",0
-147,"Your password change was successful. Please keep your new password secure.",0
-148,"Your rewards points balance has been updated. Check your account for more info.",0
-149,"Your reservation has been successfully modified. We look forward to hosting you.",0
-150,"Your monthly statement is now available. Log in to view the details.",0
-151,"Thank you for updating your email preferences. You’ll receive updates as requested.",0
-152,"We’ve received your request for assistance. Our team will be in touch shortly.",0
-153,"Your recent job application was received. You will be contacted if selected.",0
-154,"Your warranty coverage has been extended for another year.",0
-155,"Your payment method has been updated as requested.",0
-156,"We’re excited to offer you exclusive access to our loyalty program.",0
-157,"Your rental car reservation is confirmed. We look forward to serving you.",0
-158,"Your recent contribution has been received. Thank you for your support.",0
-159,"Your requested document is now available for download.",0
-160,"Your monthly membership benefits have been applied to your account.",0
-161,"Thank you for subscribing to our service. We’re glad to have you!",0
-162,"We’ve received your address update. Please allow a few days for processing.",0
-163,"Your automatic payment has been set up successfully.",0
-164,"Your course enrollment is complete. Check your email for more information.",0
-165,"Thank you for joining our loyalty program. Enjoy your perks!",0
-166,"Your insurance claim has been received and is under review.",0
-167,"Your bank account has been linked successfully to your profile.",0
-168,"Your account settings were updated as requested.",0
-169,"We’re notifying you of an upcoming maintenance window. No action required.",0
-170,"Your medical appointment has been scheduled. Please arrive on time.",0
-171,"Your check-in time is confirmed. We look forward to seeing you.",0
-172,"Your recent bill payment was successful. Thank you for your timely payment.",0
-173,"Your recent feedback submission has been recorded. Thank you!",0
-174,"Your online order was shipped. Check your email for tracking information.",0
-175,"Your scheduled delivery is on its way. Track your shipment in the app.",0
-176,"Thank you for choosing our services. We hope to exceed your expectations.",0
-177,"Your recent profile update has been successfully saved.",0
-178,"We appreciate your continued support as a valued customer.",0
-179,"Your rewards points have been applied to your recent purchase.",0
-180,"Your healthcare provider has sent you a secure message.",0
-181,"Your recent bank transaction has been processed successfully.",0
-182,"Your gym membership is active. Enjoy your workouts!",0
-183,"Your utility service will remain active without interruption.",0
-184,"Your recent bill was paid automatically. No further action needed.",0
-185,"Your benefits summary is available in your account.",0
-186,"Thank you for setting up your account with us.",0
-187,"Your travel itinerary has been updated. Check your email for details.",0
-188,"Your emergency contact information has been saved.",0
-189,"We’ve confirmed your participation in the upcoming event.",0
-190,"Your digital library card is now available for use.",0
-191,"Your profile update request has been processed.",0
-192,"Your donation has been received. Thank you for your generosity.",0
-193,"Your account is in good standing. No issues detected.",0
-194,"Your recent deposit has been credited to your account.",0
-195,"Your personal information has been updated successfully.",0
-196,"Your subscription benefits have been renewed.",0
-197,"Your mortgage payment was received. Thank you for staying current.",0
-198,"Your flight check-in is available online. Have a great trip!",0
-199,"Your customer service request has been logged. We’ll reach out soon.",0
-200,"Your subscription was canceled as requested. Thank you for your time with us.",0
+131,"Thank you for your recent purchase. Your order is being processed.", We appreciate for your recent purchase. Our system indicates your order has been confirmed and is under review, 0
+132,"Your appointment is scheduled for next week. Please arrive 10 minutes early.","Your upcoming appointment has been confirmed. Please arrive on time.",0
+133,"This is a reminder to complete your account verification for added security.","Your account verification is still pending. Please complete it for added security.",0
+134,"Your payment has been received. Thank you for staying current with your billing.","Your payment confirmation was successful. Thank you for staying current with your billing.",0
+135,"Congratulations on your membership renewal. We’re excited to have you with us!","Your membership renewal is confirmed. Welcome back!", 0
+136,"Your scheduled service appointment is confirmed. We look forward to seeing you.","Your scheduled service appointment is successfully set. We’ll see you soon.",0
+137,"Your flight itinerary has been sent to your email. Safe travels!","Your flight details have been sent. Wishing you safe travels!",0
+138,"Your health insurance policy has been successfully renewed.","Your health insurance renewal has been completed. All updates are applied.", 0
+139,"Your bank account balance has been updated. Log in to view details.","Your bank balance is updated. Log in for more details.",0
+140,"We’ve updated our terms of service. Please review them at your earliest convenience.","Your utility bill is ready for viewing. Log in to your account for details.",0
+141,"Your library book is due in two days. Please return it by the due date.","Please return your library book by the due date to avoid late fees.",0
+142,"Your utility bill is ready to view. Log in to your account for more details.","Your utility bill is now ready. Log in to view and make a payment.",0
+143,"Thank you for enrolling in paperless billing.","We’re glad you’ve chosen paperless billing. Thank you for your preference.",0
+144,"Your car service appointment has been scheduled. Please confirm your availability.","Your car service appointment is set. Please confirm or reschedule if needed.",0
+145,"Your upcoming event tickets are confirmed. Enjoy the event!","We hope you have a memorable time at the event.",0
+146,"Your prescription is ready for pickup at your chosen pharmacy.","Please collect it at your earliest convenience.",0
+147,"Your password change was successful. Please keep your new password secure.","Consider enabling two-factor authentication for added security.",0
+148,"Your rewards points balance has been updated. Check your account for more info.","Use your points to redeem exclusive rewards today.",0
+149,"Your reservation has been successfully modified. We look forward to hosting you.","Let us know if there are any special accommodations needed.",0
+150,"Your monthly statement is now available. Log in to view the details.","Review your transactions for accuracy.",0
+151,"Thank you for updating your email preferences. You’ll receive updates as requested.","You can modify your preferences at any time.",0
+152,"We’ve received your request for assistance. Our team will be in touch shortly.","Expect a response within the next 24 hours.",0
+153,"Your recent job application was received. You will be contacted if selected.","Check your email for updates on your application status.",0
+154,"Your warranty coverage has been extended for another year.","Enjoy peace of mind knowing you’re covered.",0
+155,"Your payment method has been updated as requested.","Ensure all billing details are accurate for uninterrupted service.",0
+156,"We’re excited to offer you exclusive access to our loyalty program.","Explore the rewards and benefits available to you.",0
+157,"Your rental car reservation is confirmed. We look forward to serving you.","Contact us if you need to make any changes to your reservation.",0
+158,"Your recent contribution has been received. Thank you for your support.","Your generosity helps us achieve our goals.",0
+159,"Your requested document is now available for download.","Log in to access the document securely.",0
+160,"Your monthly membership benefits have been applied to your account.","Enjoy all the perks and privileges of your membership.",0
+161,"Thank you for subscribing to our service. We’re glad to have you!","Explore all the features available to you today.",0
+162,"We’ve received your address update. Please allow a few days for processing.","Verify your updated address to avoid any delays.",0
+163,"Your automatic payment has been set up successfully.","Your payments will be processed on time moving forward.",0
+164,"Your course enrollment is complete. Check your email for more information.","Access course materials and schedules online.",0
+165,"Thank you for joining our loyalty program. Enjoy your perks!","Check your account for your current rewards balance.",0
+166,"Your insurance claim has been received and is under review.","You’ll receive updates as the review progresses.",0
+167,"Your bank account has been linked successfully to your profile.","Enjoy seamless transactions and account management.",0
+168,"Your account settings were updated as requested.","Review your settings to ensure everything is correct.",0
+169,"We’re notifying you of an upcoming maintenance window. No action required.","Service may be temporarily unavailable during this period.",0
+170,"Your medical appointment has been scheduled. Please arrive on time.","Bring any necessary documents to the appointment.",0
+171,"Your check-in time is confirmed. We look forward to seeing you.","Contact us for any last-minute adjustments.",0
+172,"Your recent bill payment was successful. Thank you for your timely payment.","Review your payment history in your account.",0
+173,"Your recent feedback submission has been recorded. Thank you!","Your input helps us improve our services.",0
+174,"Your online order was shipped. Check your email for tracking information.","Monitor your delivery status in real time.",0
+175,"Your scheduled delivery is on its way. Track your shipment in the app.","Contact support if you have delivery concerns.",0
+176,"Thank you for choosing our services. We hope to exceed your expectations.","Reach out to us for any assistance you need.",0
+177,"Your recent profile update has been successfully saved.","Ensure all your details are accurate for a seamless experience.",0
+178,"We appreciate your continued support as a valued customer.","Let us know how we can further assist you.",0
+179,"Your rewards points have been applied to your recent purchase.","Enjoy discounts and offers with your redeemed points.",0
+180,"Your healthcare provider has sent you a secure message.","Log in to your account to read it at your convenience.",0
+181,"Your recent bank transaction has been processed successfully.","Check your account for updated balances.",0
+182,"Your gym membership is active. Enjoy your workouts!","Explore exclusive member benefits in our app.",0
+183,"Your utility service will remain active without interruption.","Ensure timely payments to maintain uninterrupted service.",0
+184,"Your recent bill was paid automatically. No further action needed.","View the payment confirmation in your account.",0
+185,"Your benefits summary is available in your account.","Review the details to make the most of your benefits.",0
+186,"Thank you for setting up your account with us.","Start exploring all the features available to you today.",0
+187,"Your travel itinerary has been updated. Check your email for details.","Ensure all travel information is correct before departure.",0
+188,"Your emergency contact information has been saved.","Make sure your contacts are current and accurate.",0
+189,"We’ve confirmed your participation in the upcoming event.","We’re excited to see you there!",0
+190,"Your digital library card is now available for use.","Access our collection of resources online.",0
+191,"Your profile update request has been processed.","Your changes have been successfully applied.",0
+192,"Your donation has been received. Thank you for your generosity.","Your contribution helps us make a difference.",0
+193,"Your account is in good standing. No issues detected.","Enjoy uninterrupted access to all services.",0
+194,"Your recent deposit has been credited to your account.","Check your updated balance for verification.",0
+195,"Your personal information has been updated successfully.","Ensure all details are correct in your profile.",0
+196,"Your subscription benefits have been renewed.","Enjoy uninterrupted access to your services.",0
+197,"Your mortgage payment was received. Thank you for staying current.","Your updated balance is now reflected in your account.",0
+198,"Your flight check-in is available online. Have a great trip!","Ensure your travel documents are ready before departure.",0
+199,"Your customer service request has been logged. We’ll reach out soon.","Expect an update within the next 24 hours.",0
+200,"Your subscription was canceled as requested. Thank you for your time with us.","We hope to serve you again in the future.",0
