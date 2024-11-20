@@ -157,7 +157,7 @@ index,source_text,smishing_text,label
 155,"This is a reminder that your credit card statement is due soon.","Please make sure you pay your credit card statement on time.",0
 156,"Your automatic payment has been processed.","Thank you for your automatic payment. Please check in the app to view additional details.",0
 157,"Your electricity bill is overdue, please review online to check.","We're notifying you about an overdue bill, please check our official site or app for additional details.",0
-158,"You've been rewarded a coupon code. Please check your email from us for more details.","You've been awarded a coupon code! Please check our official site for more details.",
+158,"You've been rewarded a coupon code. Please check your email from us for more details.","You've been awarded a coupon code! Please check our official site for more details.",0
 159,"Your travel itinerary has been updated. Check your email for details.","Ensure all travel information is correct before departure.",0
 160,"Remember, we will never ask you for any personal information.","Stay safe by not giving away any personal information. We will never ask you anything about that.",0
 161,"We've just released a new update for our app please go to the app store to update it.","Please visit the app store to make sure our app is up to date!",0
